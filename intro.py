@@ -1,1 +1,2 @@
-print("Hello, GIT!")
+def hello():
+    print("Hello, GIT!")
